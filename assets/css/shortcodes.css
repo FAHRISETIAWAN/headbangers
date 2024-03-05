@@ -4123,7 +4123,7 @@ ul.list-item li .icon-tick::before {
 .box-generate form svg {
     position: absolute;
     left: 30px;
-    top: 50%;
+    top: 40%;
     transform: translateY(-50%);
 }
 
