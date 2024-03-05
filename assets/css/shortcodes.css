@@ -1508,9 +1508,9 @@
     margin-bottom: 24px;
 }
 
-.wg-create-design ul {
+/* .wg-create-design ul {
     margin-bottom: 42px;
-}
+} */
 
 /* style-1 */
 .wg-create-design.style-1 {
@@ -2939,7 +2939,7 @@ ul.list-item li .icon-tick::before {
     font-size: 18px;
     content: '\ea3c';
     font-weight: 400;
-    font-family: 'WeirdComic';
+    font-family: 'icomoon';
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
