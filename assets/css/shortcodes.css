@@ -210,7 +210,7 @@
 
 .widget-trailer .content .title .text-2 {
     color: #CBED44;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 28px;
     font-style: italic;
     font-weight: 700;
@@ -318,7 +318,7 @@
 
 .side-bar.style-2 .widget-trailer .content .title .text-2 {
     color: #CBED44;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 20px;
     font-style: italic;
     font-weight: 700;
@@ -869,7 +869,7 @@
 
 .wg-banner-1 .content .title span {
     color: #ffff;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-style: italic;
     font-size: 65px;
     font-weight: 700;
@@ -1184,7 +1184,7 @@
 
 .heading-section .main-title span {
     color: #6844ED;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-style: italic;
     line-height: 51px;
 }
@@ -1229,7 +1229,7 @@
 
 .wg-result .number-counter span {
     color: #6844ED;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 100px;
     font-style: italic;
     font-weight: 700;
@@ -2393,7 +2393,7 @@ ul.list-item li .icon-tick::before {
 .pricing-item .number-price span {
     display: inline-block;
     color: #696969;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 24px;
     font-style: italic;
     font-weight: 700;
@@ -2500,7 +2500,7 @@ ul.list-item li .icon-tick::before {
 
 .pricing-item.style-1 .number-price {
     color: #FFF;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 48px;
     font-style: italic;
     font-weight: 700;
@@ -2719,7 +2719,7 @@ ul.list-item li .icon-tick::before {
 
 .pricing-item.style-2 .number-price {
     color:#030014;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 48px;
     font-style: italic;
     font-weight: 700;
@@ -2939,7 +2939,7 @@ ul.list-item li .icon-tick::before {
     font-size: 18px;
     content: '\ea3c';
     font-weight: 400;
-    font-family: 'icomoon';
+    font-family: 'WeirdComic';
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
@@ -3448,7 +3448,7 @@ ul.list-item li .icon-tick::before {
 }
 
 .wg-banner-2 .content .title span {
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-style: italic;
     line-height: 67px;
 }
@@ -3789,7 +3789,7 @@ ul.list-item li .icon-tick::before {
 
 .testimonial-item1 .content h2 span {
     color: #6844ED;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 48px;
     font-style: italic;
     font-weight: 700;
@@ -3980,7 +3980,7 @@ ul.list-item li .icon-tick::before {
 
 .slider-type2 .swiper-button-next::after {
     content: '\ea3c';
-    font-family: 'icomoon';
+    font-family: 'WeirdComic';
     font-size: 16px;
     color: #6844ED;
     -webkit-transition: all 0.3s ease-in-out;
@@ -3992,7 +3992,7 @@ ul.list-item li .icon-tick::before {
 
 .slider-type2 .swiper-button-prev::after {
     content: '\ea40';
-    font-family: 'icomoon';
+    font-family: 'WeirdComic';
     font-size: 16px;
     color: #6844ED;
     -webkit-transition: all 0.3s ease-in-out;
@@ -4039,7 +4039,7 @@ ul.list-item li .icon-tick::before {
 
 .wg-banner-3 .content .title span {
     color: #3468F0;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 65px;
     font-style: italic;
     font-weight: 700;
@@ -4670,7 +4670,7 @@ ul.list-item li .icon-tick::before {
 
 .client-item .content h2 span {
     color: #E6F85E;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 48px;
     font-style: italic;
     font-weight: 700;
@@ -5022,7 +5022,7 @@ ul.list-item li .icon-tick::before {
     background: none;
     border: none;
     color: #696969;
-    font-family: 'Space Grotesk';
+    font-family: 'WeirdComic';
     font-size: 16px;
     font-weight: 400;
     line-height: 11px;
@@ -5050,7 +5050,7 @@ ul.list-item li .icon-tick::before {
 
 .dropdown::after {
     position: absolute;
-    font-family: 'icomoon';
+    font-family: 'WeirdComic';
     content: '\e915';
     color: #696969;
     font-size: 16px;
@@ -5666,7 +5666,7 @@ ul.list-item li .icon-tick::before {
 
 .wg-banner-4 .content h1 span {
     color: #E6F85E;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 75px;
     font-style: italic;
     font-weight: 700;
@@ -5774,7 +5774,7 @@ ul.list-item li .icon-tick::before {
 
 .box-feature-item .title span {
     color:  #E6F85E;
-    font-family: 'Playfair Display';
+    font-family: 'WeirdComic';
     font-size: 27px;
     font-style: italic;
     font-weight: 700;

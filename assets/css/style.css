@@ -15,6 +15,17 @@
 @import "../font/font.css";
 @import "bootstrap.css";
 @import "magnific-popup.min.css";
+
+
+@font-face {
+    font-family: "WeirdComic";
+    src: url("../icon/fonts/WeirdComic-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Roboto";
+    src: url("../../assets/font/ComickBook_Simple.ttf") format("truetype");
+  }
+
 /**
   	* Reset Browsers
     * General
@@ -226,7 +237,7 @@ button,
 input,
 select,
 textarea {
-    font-family            : 'Space Grotesk', sans-serif;
+    font-family            : 'WeirdComic', sans-serif;
     color                  : #696969;
     -webkit-font-smoothing : antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -243,7 +254,7 @@ img {
 }
 
 p {
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'WeirdComic', sans-serif;
     font-weight: 400;
     font-size  : 16px;
     line-height: 28px;
@@ -591,7 +602,7 @@ select {
     width: 100%;
     padding: 20px 30px;
     height: 60px;
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'WeirdComic', sans-serif;
     font-size: 16px;
     line-height: 11px;
     border-radius: 10px;
@@ -632,7 +643,7 @@ input[type="color"] {
     -webkit-box-shadow: none;
     -moz-box-shadow   : none;
     box-shadow        : none;
-    font-family: 'Space Grotesk';
+    font-family: 'WeirdComic';
     font-weight: 400;
     font-size  : 16px;
     line-height: 11px;
@@ -705,7 +716,7 @@ input[type="color"]::placeholder {
     font-size  : 16px;
     font-weight: 400;
     line-height: 11px;
-    font-family: 'Space Grotesk';
+    font-family: 'WeirdComic';
     color      : #696969;
 }
 
@@ -714,7 +725,7 @@ button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-    font-family       : 'Space Grotesk';
+    font-family       : 'WeirdComic';
     font-weight       : 700;
     font-size         : 16px;
     line-height       : 11px;
@@ -799,7 +810,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family   : 'Space Grotesk', sans-serif;
+    font-family   : 'WeirdComic', sans-serif;
     color         : #030014;
     font-weight   : 700;
     text-rendering: optimizeLegibility;
@@ -1241,7 +1252,7 @@ a:focus {
 }
 
 .menu-primary-menu li a {
-    font-family: 'Space Grotesk';
+    font-family: 'WeirdComic';
     font-size: 18px;
     font-weight: 600;
     line-height: 45px;
@@ -1792,7 +1803,7 @@ a:focus {
 
 .footer-title {
     color: #FFF;
-    font-family: 'Space Grotesk';
+    font-family: 'WeirdComic';
     font-size: 20px;
     font-weight: 600;
     line-height: 14px;
@@ -1802,7 +1813,7 @@ a:focus {
 
 #footer p.text {
     color: #FFF;
-    font-family: 'Space Grotesk';
+    font-family: 'WeirdComic';
     font-size: 16px;
     font-weight: 400;
     line-height: 28px;
@@ -2533,7 +2544,7 @@ ul.wg-menu li a:hover {
 
 .breadcrumbs li a {
     color: #FFF;
-    font-family: "Space Grotesk";
+    font-family: "WeirdComic";
     font-size: 24px;
     font-weight: 700;
     line-height: 17px;
